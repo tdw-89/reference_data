@@ -1,0 +1,23 @@
+ORGANISM NAME:	Pongo abelii
+ORGANISM COMMON NAME:	Sumatran orangutan
+TAXID:	9601
+ANNOTATION PROVIDER:	NCBI RefSeq
+ANNOTATION RELEASE NAME:	GCF_028885655.2-RS_2026_05
+ANNOTATION PIPELINE:	NCBI Eukaryotic Genome Annotation Pipeline (EGAP)
+ANNOTATION SOFTWARE VERSION:	10.5
+ANNOTATION METHOD:	Best-placed RefSeq; Gnomon; cmsearch; tRNAscan-SE
+FEATURES ANNOTATED:	Gene; mRNA; CDS; ncRNA
+ANNOTATION EVIDENCE FREEZE DATE:	11-May-2026
+ANNOTATION RELEASE DATE:	12-May-2026
+ANNOTATION REPORT:	https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Pongo_abelii/GCF_028885655.2-RS_2026_05
+ANNOTATED ASSEMBLIES:
+ASSEMBLY NAME:	NHGRI_mPonAbe1-v2.1_pri
+ASSEMBLY ACCESSION:	GCF_028885655.2
+ASSEMBLY SUBMITTER:	National Human Genome Research Institute, National Institutes of Health
+ASSEMBLY DATE:	5 January 2024
+ASSEMBLY TYPE:	Haploid
+NUMBER OF ASSEMBLY-UNITS:	2
+##Below is a 2 column list with assembly-unit id and name.
+##The Primary Assembly unit is listed first.
+GCF_028885665.2	Primary Assembly
+GCF_000001585.1	non-nuclear

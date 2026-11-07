@@ -1,0 +1,8 @@
+# Source:
+"Telomere-to-Telomere consortium primates project": https://github.com/marbl/Primates
+
+# Files:
+Repeat data was downloaded from GenomeArk: 
+- mGorGor1.pri.cur.20231122.RepeatMasker-combo3.out
+
+# Genome version: mGorGor1 version 2.0 (*NOT* 2.1)

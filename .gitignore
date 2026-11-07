@@ -1,0 +1,15 @@
+__pycache__
+zebrafish/bowtie2
+.DS_Store
+.Rhistory
+*.fna
+*.fai
+*.faa
+*.gff
+*.gff3
+*.gtf
+*.tbi
+*.gz
+*.zst
+*.bed
+

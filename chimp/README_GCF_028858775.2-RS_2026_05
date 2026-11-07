@@ -1,0 +1,23 @@
+ORGANISM NAME:	Pan troglodytes
+ORGANISM COMMON NAME:	chimpanzee
+TAXID:	9598
+ANNOTATION PROVIDER:	NCBI RefSeq
+ANNOTATION RELEASE NAME:	GCF_028858775.2-RS_2026_05
+ANNOTATION PIPELINE:	NCBI Eukaryotic Genome Annotation Pipeline (EGAP)
+ANNOTATION SOFTWARE VERSION:	10.5
+ANNOTATION METHOD:	Best-placed RefSeq; Gnomon; cmsearch; tRNAscan-SE
+FEATURES ANNOTATED:	Gene; mRNA; CDS; ncRNA
+ANNOTATION EVIDENCE FREEZE DATE:	20-May-2026
+ANNOTATION RELEASE DATE:	22-May-2026
+ANNOTATION REPORT:	https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Pan_troglodytes/GCF_028858775.2-RS_2026_05
+ANNOTATED ASSEMBLIES:
+ASSEMBLY NAME:	NHGRI_mPanTro3-v2.1_pri
+ASSEMBLY ACCESSION:	GCF_028858775.2
+ASSEMBLY SUBMITTER:	National Human Genome Research Institute, National Institutes of Health
+ASSEMBLY DATE:	8 January 2024
+ASSEMBLY TYPE:	Haploid
+NUMBER OF ASSEMBLY-UNITS:	2
+##Below is a 2 column list with assembly-unit id and name.
+##The Primary Assembly unit is listed first.
+GCF_028858785.2	Primary Assembly
+GCF_000001485.1	non-nuclear

@@ -1,0 +1,11 @@
+# Source:
+"Telomere-to-Telomere consortium primates project": https://github.com/marbl/Primates
+
+# Files:
+Repeat data and version 2.0 assembly was downloaded from GenomeArk: 
+- mPonAbe1.pri.cur.20231205.RepeatMasker-combo.out
+- mPonAbe1.pri.cur.20231205.fasta
+
+# Genome version:
+mPonAbe1 version 2.0 (*NOT* 2.1)
+Note, the github states "Files with the date tag 20231122 and 20231205 are the v2.0 assemblies"

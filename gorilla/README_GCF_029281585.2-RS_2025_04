@@ -1,0 +1,23 @@
+ORGANISM NAME:	Gorilla gorilla gorilla
+ORGANISM COMMON NAME:	western lowland gorilla
+TAXID:	9595
+ANNOTATION PROVIDER:	NCBI RefSeq
+ANNOTATION RELEASE NAME:	GCF_029281585.2-RS_2025_04
+ANNOTATION PIPELINE:	NCBI eukaryotic genome annotation pipeline
+ANNOTATION SOFTWARE VERSION:	10.3
+ANNOTATION METHOD:	Best-placed RefSeq; Gnomon; cmsearch; tRNAscan-SE
+FEATURES ANNOTATED:	Gene; mRNA; CDS; ncRNA
+ANNOTATION EVIDENCE FREEZE DATE:	02-April-2025
+ANNOTATION RELEASE DATE:	03-April-2025
+ANNOTATION REPORT:	https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Gorilla_gorilla_gorilla/GCF_029281585.2-RS_2025_04
+ANNOTATED ASSEMBLIES:
+ASSEMBLY NAME:	NHGRI_mGorGor1-v2.1_pri
+ASSEMBLY ACCESSION:	GCF_029281585.2
+ASSEMBLY SUBMITTER:	National Human Genome Research Institute, National Institutes of Health
+ASSEMBLY DATE:	8 January 2024
+ASSEMBLY TYPE:	Haploid
+NUMBER OF ASSEMBLY-UNITS:	2
+##Below is a 2 column list with assembly-unit id and name.
+##The Primary Assembly unit is listed first.
+GCF_029281615.2	Primary Assembly
+GCF_000027375.1	non-nuclear
