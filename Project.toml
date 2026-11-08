@@ -1,2 +1,6 @@
 [deps]
+BioinfoTools2 = "961a5d6f-8097-4ecf-bcda-6ee52fd0e99f"
 GFF3 = "af1dc308-cb6b-11e8-32f0-31192efa90f6"
+
+[sources]
+BioinfoTools2 = {path = "/Users/thomaswolfe/Documents/GitHub.nosync/BioinfoTools2.jl/"}
